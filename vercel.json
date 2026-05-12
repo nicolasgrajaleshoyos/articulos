@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/articulos_de_control_territorial.html"
+    }
+  ]
+}
